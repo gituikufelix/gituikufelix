@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop"
+		},
+		{
+			"path": "xampp/htdocs/website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
